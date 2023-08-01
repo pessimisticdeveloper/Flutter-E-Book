@@ -1,0 +1,37 @@
+[
+  {
+    "rating" : "4.9",
+    "title" : "PİNOKYO",
+    "text" : "Carlo Collodi",
+    "img" : "img/pinokyo.jpg",
+    "audio" : "voice.mp3"
+  },
+  {
+    "rating" : "4.5",
+    "title" : "PAMUK PRENSES VE 7 CÜCELER",
+    "text" : "Wilhelm Grimm",
+    "img" : "img/prenses7cuce.jpg",
+    "audio" : "voice.mp3"
+  },
+  {
+    "rating" : "4.2",
+    "title" : "KELOĞLAN",
+    "text" : "Ozan Civit",
+    "img" : "img/keloglan.jpg",
+    "audio" : "voice.mp3"
+  },
+  {
+    "rating" : "4.8",
+    "title" : "NASRETTİN HOCA",
+    "text" : "Orhan Veli",
+    "img" : "img/nashoca.jpg",
+    "audio" : "voice.mp3"
+  },
+  {
+    "rating" : "4.7",
+    "title" : "KIRMIZI BAŞLIKLI KIZ",
+    "text" : "Cory Edward",
+    "img" : "img/kırmızıkız.png",
+    "audio" : "voice.mp3"
+  }
+]
